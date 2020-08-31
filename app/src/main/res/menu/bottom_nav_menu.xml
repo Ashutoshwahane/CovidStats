@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="home"
+          android:icon="@drawable/ic_home"
+            android:title="Home"
+        />
+    <item android:id="covid-19"
+        android:icon="@drawable/ic_virus"
+        android:title="Covid-19"
+        />
+    <item android:id="notification"
+        android:icon="@drawable/ic_bell"
+        android:title="Notification"
+        />
+
+</menu>
